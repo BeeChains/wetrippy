@@ -2,7 +2,7 @@
 
 a [Handshake](https://handshake.org/) blockchain Top Level Domain mane...
 
-yeah [We Trippy Mane](hns.wetrippymane/)!
+yeah [We Trippy Mane](http://wetrippymane.hns.is/)!
 
 shout out to AgentSmith for this awesome Handshake logo!
 
