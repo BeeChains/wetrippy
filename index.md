@@ -69,11 +69,13 @@
 
 </script>
 </body>
-See post about these rainbow domain name roots at <a href="https://innerinetcompany.com/2023/03/26/text-to-code-cyber-matrix-roots/">innerinetcompany.com/</a>
-	<a href="https://handshake.org/">Handshake.org/</a>
+<div>
+<br>
+<li>See post about these rainbow domain name roots at <a href="https://innerinetcompany.com/2023/03/26/text-to-code-cyber-matrix-roots/">innerinetcompany.com/</a></li>
+<li><a href="https://handshake.org/">Handshake.org/</a>Grow and Own The Roots of The Internet!</li>
 
 
-shout out to AgentSmith for this awesome Handshake logo!
+- shout out to AgentSmith for this awesome Handshake logo!
 
 ![image](https://user-images.githubusercontent.com/37987346/92327937-34e67580-f02b-11ea-9b64-22ce08cd6413.png)
 </html>	
