@@ -70,9 +70,8 @@
 </script>
 </body>
 See post about these rainbow domain name roots at <a href="https://innerinetcompany.com/2023/03/26/text-to-code-cyber-matrix-roots/">innerinetcompany.com/</a>
-a [Handshake](https://handshake.org/) blockchain Top Level Domain mane...
+	<a href="https://handshake.org/">Handshake.org/</a>
 
-yeah [We Trippy Mane](http://wetrippymane.hns.is/)!
 
 shout out to AgentSmith for this awesome Handshake logo!
 
