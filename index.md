@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <title>hns.wetrippy/ | Cyber Matrix Roots</title>
