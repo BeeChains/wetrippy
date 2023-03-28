@@ -1,25 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>.WeTrippy Welcomes All!Rainbow Mushroom</title>
-	<style>
-		body {
-			background-color: #2E4057;
-		}
+<title>.WeTrippy Welcomes All!Rainbow Mushroom</title>
+<style>
+   body {
+    background-color: #2E4057;
+    }
 		
-		.mushroom {
-			position: absolute;
-			left: 50%;
-			transform: translateX(-50%);
-			bottom: 0;
-			width: 100px;
-			height: 150px;
+   .mushroom {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        bottom: 0;
+	width: 100px;
+	height: 150px;
 			background-color: #F4D03F;
 			border-radius: 50% 50% 0 0;
 			box-shadow: 0 8px 6px -6px black;
 		}
 		
-		.stem {
+   .stem {
 			position: absolute;
 			left: 50%;
 			transform: translateX(-50%);
@@ -31,7 +31,7 @@
 			box-shadow: 0 8px 6px -6px black;
 		}
 		
-		.name {
+   .name {
 			position: absolute;
 			background-color: transparent;
 			font-family: 'Arial', sans-serif;
@@ -39,7 +39,7 @@
 			color: white;
 		}
 		
-		.root {
+   .root {
 			position: absolute;
 			background-color: #F4D03F;
 			width: 10px;
@@ -47,10 +47,10 @@
 			border-radius: 50%;
 			box-shadow: 0 8px 6px -6px black;
 		}
-	</style>
+</style>
 </head>
 <body>
-	<div class="mushroom">
+<div class="mushroom">
 		<div class="stem"></div>
 		<div class="name" style="bottom: 10px; left: 5px;">Rainbow</div>
 		<div class="name" style="bottom: 25px; left: 25px;">Colored</div>
@@ -62,7 +62,7 @@
 		<div class="root" style="bottom: 230px; left: 45px;"></div>
 		<div class="root" style="bottom: 250px; left: 30px;"></div>
 		<div class="root" style="bottom: 280px; left: 20px;"></div>
-	</div>
+</div>
 </body>
 </html>
 a [Handshake](https://handshake.org/) blockchain Top Level Domain mane...
